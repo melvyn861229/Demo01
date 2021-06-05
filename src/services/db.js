@@ -1,3 +1,4 @@
+//Base data
 const mysql = require("mysql");
 const mysqlConection = mysql.createConnection({ 
     host     : 'localhost',
